@@ -7,4 +7,4 @@ The dataset we used for our analysis includes over 2,000 ETFs and was scraped fr
 This repository contains the R code used for analysis, the initial exploratory data analysis, and the final report.
 
 See the video presentation of our analysis here:
-https://noumik.weebly.com/predicting-etf-returns.html
+https://nickdani.weebly.com/predicting-etf-returns.html
